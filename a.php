@@ -4,5 +4,5 @@
 
  echo "12347891011";
 echo "abc";
-
+code cua nhanh ISSUE-10
 ?>
